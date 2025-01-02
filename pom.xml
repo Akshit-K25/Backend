@@ -24,6 +24,12 @@
         <artifactId>spring-boot-starter</artifactId>
     </dependency>
 
+    <dependency>
+        <groupId>org.projectlombok</groupId>
+        <artifactId>lombok</artifactId>
+        <optional>true</optional>
+    </dependency>
+
     <!-- Starter for Sending Emails -->
     <dependency>
         <groupId>org.springframework.boot</groupId>
